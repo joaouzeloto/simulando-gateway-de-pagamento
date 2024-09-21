@@ -1,0 +1,183 @@
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\appsettings.json
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\TrabalhoPrimeiroBim.exe
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\TrabalhoPrimeiroBim.deps.json
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\TrabalhoPrimeiroBim.runtimeconfig.json
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\TrabalhoPrimeiroBim.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\TrabalhoPrimeiroBim.pdb
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.csproj.AssemblyReference.cache
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.AssemblyInfoInputs.cache
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.AssemblyInfo.cs
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.csproj.CoreCompileInputs.cache
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets\msbuild.TrabalhoPrimeiroBim.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets\msbuild.build.TrabalhoPrimeiroBim.props
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrabalhoPrimeiroBim.props
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrabalhoPrimeiroBim.props
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\scopedcss\bundle\TrabalhoPrimeiroBim.styles.css
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\Trabalho.3DFB7588.Up2Date
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\refint\TrabalhoPrimeiroBim.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.pdb
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.genruntimeconfig.cache
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\ref\TrabalhoPrimeiroBim.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\TrabalhoPrimeiroBim.xml
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.xml
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\appsettings.Development.json
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\appsettings.json
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\TrabalhoPrimeiroBim.exe
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\TrabalhoPrimeiroBim.deps.json
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\TrabalhoPrimeiroBim.runtimeconfig.json
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\TrabalhoPrimeiroBim.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\TrabalhoPrimeiroBim.pdb
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\TrabalhoPrimeiroBim.xml
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Google.Protobuf.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\MySql.Data.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\ZstdSharp.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.csproj.AssemblyReference.cache
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.AssemblyInfoInputs.cache
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.AssemblyInfo.cs
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.csproj.CoreCompileInputs.cache
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.MvcApplicationPartsAssemblyInfo.cs
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.MvcApplicationPartsAssemblyInfo.cache
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets.build.json
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets.development.json
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets\msbuild.TrabalhoPrimeiroBim.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets\msbuild.build.TrabalhoPrimeiroBim.props
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrabalhoPrimeiroBim.props
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrabalhoPrimeiroBim.props
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets.pack.json
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\scopedcss\bundle\TrabalhoPrimeiroBim.styles.css
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\Trabalho.3DFB7588.Up2Date
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\refint\TrabalhoPrimeiroBim.dll
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.xml
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.pdb
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.genruntimeconfig.cache
+D:\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\ref\TrabalhoPrimeiroBim.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\appsettings.json
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\TrabalhoPrimeiroBim.exe
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\TrabalhoPrimeiroBim.deps.json
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\TrabalhoPrimeiroBim.runtimeconfig.json
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\TrabalhoPrimeiroBim.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\TrabalhoPrimeiroBim.pdb
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\TrabalhoPrimeiroBim.xml
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.csproj.AssemblyReference.cache
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.AssemblyInfoInputs.cache
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.AssemblyInfo.cs
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.csproj.CoreCompileInputs.cache
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets\msbuild.TrabalhoPrimeiroBim.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets\msbuild.build.TrabalhoPrimeiroBim.props
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrabalhoPrimeiroBim.props
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrabalhoPrimeiroBim.props
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\scopedcss\bundle\TrabalhoPrimeiroBim.styles.css
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\Trabalho.3DFB7588.Up2Date
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\refint\TrabalhoPrimeiroBim.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.xml
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.pdb
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\TrabalhoPrimeiroBim.genruntimeconfig.cache
+C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\obj\Debug\net8.0\ref\TrabalhoPrimeiroBim.dll
