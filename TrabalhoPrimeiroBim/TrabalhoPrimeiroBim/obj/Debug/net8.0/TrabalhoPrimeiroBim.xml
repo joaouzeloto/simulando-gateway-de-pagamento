@@ -4,5 +4,54 @@
         <name>TrabalhoPrimeiroBim</name>
     </assembly>
     <members>
+        <member name="M:TrabalhoPrimeiroBim.controller.CartaoController.obterBandeira(System.String)">
+            <summary>
+            devolve a bandeira do cartão
+            </summary>
+            <param name="cartao"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TrabalhoPrimeiroBim.controller.CartaoController.conferirValidade(System.String)">
+            <summary>
+            confere se o cartão está válido
+            </summary>
+            <param name="cartao"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TrabalhoPrimeiroBim.controller.PagamentosController.calcularParcelas(TrabalhoPrimeiroBim.viewModel.TransacaoViewModel)">
+            <summary>
+            calcula as parcelas de um pagamento
+            </summary>
+            <param name="transacaoInfo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TrabalhoPrimeiroBim.controller.PagamentosController.cadastrarPagamento(TrabalhoPrimeiroBim.viewModel.PagamentoViewModel)">
+            <summary>
+            cria um novo pagamento
+            </summary>
+            <param name="pagamentoView"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TrabalhoPrimeiroBim.controller.PagamentosController.situacaoPagamento(System.Int32)">
+            <summary>
+            devolve a situacao de determinado pagamento
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TrabalhoPrimeiroBim.controller.PagamentosController.confirmarPagamento(System.Int32)">
+            <summary>
+            atualiza a situacao de determinado pagamento
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TrabalhoPrimeiroBim.controller.PagamentosController.cancelarrPagamento(System.Int32)">
+            <summary>
+            atualiza a situacao de determinado pagamento
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
     </members>
 </doc>

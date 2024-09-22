@@ -8,15 +8,18 @@ namespace TrabalhoPrimeiroBim.services
     {
         private readonly ILogger<CartaoService> _logger;
         private readonly TrabalhoPrimeiroBim.BD _bd;
+        private readonly domain.Pagamento _pagamento;
 
-        public PagamentoService(ILogger<CartaoService> logger, BD bd)
+        public PagamentoService(ILogger<CartaoService> logger, BD bd, domain.Pagamento pagamento)
         {
             _logger = logger;
             _bd = bd;
+            _pagamento = pagamento;
         }
 
         public long criarTransacao(domain.Pagamento pagamento)
         {
+            _logger.LogInformation("iniciando o modulo de criação do pagamento");
             MySqlConnection conexao = _bd.CriarConexao();
             long id = 0;
             try
@@ -29,6 +32,7 @@ namespace TrabalhoPrimeiroBim.services
                                      {pagamento.cvv}, {pagamento.qtdeParcelas},{((uint)pagamento.situacao)});";
                 cmd.ExecuteNonQuery();
                 id = cmd.LastInsertedId;
+                _logger.LogInformation("sucesso na criação do pagamento");
             }
             catch(Exception ex)
             {
@@ -45,8 +49,8 @@ namespace TrabalhoPrimeiroBim.services
 
         public string situacaoPagamento(long id)
         {
+            _logger.LogInformation("iniciando o modulo de consulta da situacao do pagamento");
             MySqlConnection conexao = _bd.CriarConexao();
-            domain.Pagamento aux = new domain.Pagamento();
             string situacao = "";
             try
             {
@@ -63,9 +67,14 @@ namespace TrabalhoPrimeiroBim.services
                 {
                     dr.Read();
                     situacao = dr["Situacao"].ToString();
+                    _logger.LogInformation("sucesso em obter a situação");
                 }
                 else
+                {
+                    _logger.LogInformation("falha em obter a situação");
                     return "NÃO EXISTE";
+                }
+                    
             }
             catch (Exception ex)
             {
@@ -77,15 +86,15 @@ namespace TrabalhoPrimeiroBim.services
                 conexao.Close();
             }
 
-            return aux.converte(situacao);
+            return _pagamento.converte(situacao);
         }
 
         public bool confirmarPagamento(long id)
         {
+            _logger.LogInformation("iniciando o modulo de update da situacao do pagamento");
             MySqlConnection conexao = _bd.CriarConexao();
             string situacao = "";
             bool flag = true;
-            domain.Pagamento aux = new domain.Pagamento();
             try
             {
                 conexao.Open();
@@ -98,7 +107,7 @@ namespace TrabalhoPrimeiroBim.services
                 if (dr.HasRows)
                 {
                     dr.Read();
-                    situacao = aux.converte(dr["Situacao"].ToString());
+                    situacao = _pagamento.converte(dr["Situacao"].ToString());
                     dr.Close();
                     if (situacao != "CANCELADO")
                     {
@@ -106,9 +115,13 @@ namespace TrabalhoPrimeiroBim.services
                                  Transacao SET Situacao = {2}
                                  WHERE TransacaoId = {id};";
                         dr = cmd.ExecuteReader();
+                        _logger.LogInformation("update da situacao do pagamento realizado");
                     }
                     else
+                    {
+                        _logger.LogInformation("falha no update da situacao do pagamento realizado");
                         flag = false;
+                    }
                     
                 }
 
@@ -128,10 +141,10 @@ namespace TrabalhoPrimeiroBim.services
 
         public bool cancelarPagamento(long id)
         {
+            _logger.LogInformation("iniciando o modulo de update da situacao do pagamento");
             MySqlConnection conexao = _bd.CriarConexao();
             string situacao = "";
             bool flag = true;
-            domain.Pagamento aux = new domain.Pagamento();
             try
             {
                 conexao.Open();
@@ -144,16 +157,20 @@ namespace TrabalhoPrimeiroBim.services
                 if (dr.HasRows)
                 {
                     dr.Read();
-                    situacao = aux.converte(dr["Situacao"].ToString());
+                    situacao = _pagamento.converte(dr["Situacao"].ToString());
                     dr.Close();
                     if (situacao != "CONFIRMADO")                 {
                         cmd.CommandText = @$"UPDATE 
                                  Transacao SET Situacao = {3}
                                  WHERE TransacaoId = {id};";
                         dr = cmd.ExecuteReader();
+                        _logger.LogInformation("update da situacao do pagamento realizado");
                     }
                     else
+                    {
+                        _logger.LogInformation("falha no update da situacao do pagamento realizado");
                         flag = false;
+                    }
 
                 }
 

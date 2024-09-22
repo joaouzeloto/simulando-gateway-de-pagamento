@@ -35,7 +35,7 @@
     "ContainingType": "TrabalhoPrimeiroBim.controller.PagamentosController",
     "Method": "situacaoPagamento",
     "RelativePath": "{id}/situacao",
-    "HttpMethod": "POST",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [

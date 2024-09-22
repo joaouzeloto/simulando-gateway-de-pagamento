@@ -3,9 +3,11 @@ using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Text.Json;
+using XXXXX;
 
 namespace TrabalhoPrimeiroBim.controller
 {
+    [XXXXX.Authorize("APIAuth")]
     [Route("cartoes/")]
     [ApiController]
     public class CartaoController : ControllerBase
@@ -18,6 +20,11 @@ namespace TrabalhoPrimeiroBim.controller
             _cartaoService = cartaoService;
         }
 
+        /// <summary>
+        /// devolve a bandeira do cartão
+        /// </summary>
+        /// <param name="cartao"></param>
+        /// <returns></returns>
         [HttpGet ("{cartao}/obter-bandeira")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
@@ -26,7 +33,7 @@ namespace TrabalhoPrimeiroBim.controller
             cartao.Replace("-", "");
             bool flag = true;
             string bandeira = "";
-            for(int i = 0; i < 4;i++)
+            for(int i = 0; i < 3;i++)
                 if (cartao[i] != cartao[i+1])
                     flag = false;
             if (flag && cartao[0] == cartao[8])
@@ -53,6 +60,11 @@ namespace TrabalhoPrimeiroBim.controller
         }
 
 
+        /// <summary>
+        /// confere se o cartão está válido
+        /// </summary>
+        /// <param name="cartao"></param>
+        /// <returns></returns>
         [HttpGet("{cartao}/valido")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]

@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|c:\\users\\joaor\\onedrive\\\u00E1rea de trabalho\\si\\6\u00BA semestre\\lp1\\trabalhoprimeirobim (1)\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\services\\pagamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|solutionrelative:trabalhoprimeirobim\\services\\pagamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|c:\\users\\joaor\\onedrive\\\u00E1rea de trabalho\\si\\6\u00BA semestre\\lp1\\trabalhoprimeirobim (1)\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|solutionrelative:trabalhoprimeirobim\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|c:\\users\\joaor\\onedrive\\\u00E1rea de trabalho\\si\\6\u00BA semestre\\lp1\\trabalhoprimeirobim (1)\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|solutionrelative:trabalhoprimeirobim\\trabalhoprimeirobim.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|c:\\users\\joaor\\onedrive\\\u00E1rea de trabalho\\si\\6\u00BA semestre\\lp1\\trabalhoprimeirobim (1)\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\controller\\cartaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|solutionrelative:trabalhoprimeirobim\\controller\\cartaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|c:\\users\\joaor\\onedrive\\\u00E1rea de trabalho\\si\\6\u00BA semestre\\lp1\\trabalhoprimeirobim (1)\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\controller\\pagamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|solutionrelative:trabalhoprimeirobim\\controller\\pagamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|c:\\users\\joaor\\onedrive\\\u00E1rea de trabalho\\si\\6\u00BA semestre\\lp1\\trabalhoprimeirobim (1)\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\domain\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|solutionrelative:trabalhoprimeirobim\\domain\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|c:\\users\\joaor\\onedrive\\\u00E1rea de trabalho\\si\\6\u00BA semestre\\lp1\\trabalhoprimeirobim (1)\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|solutionrelative:trabalhoprimeirobim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|c:\\users\\joaor\\onedrive\\\u00E1rea de trabalho\\si\\6\u00BA semestre\\lp1\\trabalhoprimeirobim (1)\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\services\\pagamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|solutionrelative:trabalhoprimeirobim\\services\\pagamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|c:\\users\\joaor\\onedrive\\\u00E1rea de trabalho\\si\\6\u00BA semestre\\lp1\\trabalhoprimeirobim (1)\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|solutionrelative:trabalhoprimeirobim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|c:\\users\\joaor\\onedrive\\\u00E1rea de trabalho\\si\\6\u00BA semestre\\lp1\\trabalhoprimeirobim (1)\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|solutionrelative:trabalhoprimeirobim\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|c:\\users\\joaor\\onedrive\\\u00E1rea de trabalho\\si\\6\u00BA semestre\\lp1\\trabalhoprimeirobim (1)\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\services\\cartaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|solutionrelative:trabalhoprimeirobim\\services\\cartaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|c:\\users\\joaor\\onedrive\\\u00E1rea de trabalho\\si\\6\u00BA semestre\\lp1\\trabalhoprimeirobim (1)\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\trabalhoprimeirobim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26398154-B060-4EAF-ADB2-568163894244}|TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj|solutionrelative:trabalhoprimeirobim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,58 +46,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pagamento.cs",
-              "DocumentMoniker": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\domain\\Pagamento.cs",
-              "RelativeDocumentMoniker": "TrabalhoPrimeiroBim\\domain\\Pagamento.cs",
-              "ToolTip": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\domain\\Pagamento.cs",
-              "RelativeToolTip": "TrabalhoPrimeiroBim\\domain\\Pagamento.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\AuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "TrabalhoPrimeiroBim\\AuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\AuthorizeAttribute.cs",
+              "RelativeToolTip": "TrabalhoPrimeiroBim\\AuthorizeAttribute.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAD8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T22:11:52.04Z",
+              "WhenOpened": "2024-09-22T18:50:38.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PagamentosController.cs",
-              "DocumentMoniker": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\controller\\PagamentosController.cs",
-              "RelativeDocumentMoniker": "TrabalhoPrimeiroBim\\controller\\PagamentosController.cs",
-              "ToolTip": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\controller\\PagamentosController.cs",
-              "RelativeToolTip": "TrabalhoPrimeiroBim\\controller\\PagamentosController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAAEEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T22:06:47.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PagamentoService.cs",
-              "DocumentMoniker": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\services\\PagamentoService.cs",
-              "RelativeDocumentMoniker": "TrabalhoPrimeiroBim\\services\\PagamentoService.cs",
-              "ToolTip": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\services\\PagamentoService.cs",
-              "RelativeToolTip": "TrabalhoPrimeiroBim\\services\\PagamentoService.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAAAGQAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T01:00:19.994Z",
+              "Title": "TrabalhoPrimeiroBim",
+              "DocumentMoniker": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj",
+              "RelativeDocumentMoniker": "TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj",
+              "ToolTip": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj",
+              "RelativeToolTip": "TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-22T18:46:48.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CartaoService.cs",
-              "DocumentMoniker": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\services\\CartaoService.cs",
-              "RelativeDocumentMoniker": "TrabalhoPrimeiroBim\\services\\CartaoService.cs",
-              "ToolTip": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\services\\CartaoService.cs",
-              "RelativeToolTip": "TrabalhoPrimeiroBim\\services\\CartaoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Title": "PagamentosController.cs",
+              "DocumentMoniker": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\controller\\PagamentosController.cs",
+              "RelativeDocumentMoniker": "TrabalhoPrimeiroBim\\controller\\PagamentosController.cs",
+              "ToolTip": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\controller\\PagamentosController.cs",
+              "RelativeToolTip": "TrabalhoPrimeiroBim\\controller\\PagamentosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T22:05:13.598Z",
+              "WhenOpened": "2024-09-22T15:52:28.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartaoController.cs",
+              "DocumentMoniker": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\controller\\CartaoController.cs",
+              "RelativeDocumentMoniker": "TrabalhoPrimeiroBim\\controller\\CartaoController.cs",
+              "ToolTip": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\controller\\CartaoController.cs",
+              "RelativeToolTip": "TrabalhoPrimeiroBim\\controller\\CartaoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T15:50:57.948Z",
               "EditorCaption": ""
             },
             {
@@ -92,9 +108,61 @@
               "RelativeDocumentMoniker": "TrabalhoPrimeiroBim\\Program.cs",
               "ToolTip": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\Program.cs",
               "RelativeToolTip": "TrabalhoPrimeiroBim\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFEAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv1YAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T22:32:35.409Z",
+              "WhenOpened": "2024-09-22T15:09:25.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartaoService.cs",
+              "DocumentMoniker": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\services\\CartaoService.cs",
+              "RelativeDocumentMoniker": "TrabalhoPrimeiroBim\\services\\CartaoService.cs",
+              "ToolTip": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\services\\CartaoService.cs",
+              "RelativeToolTip": "TrabalhoPrimeiroBim\\services\\CartaoService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T15:56:59.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PagamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\services\\PagamentoService.cs",
+              "RelativeDocumentMoniker": "TrabalhoPrimeiroBim\\services\\PagamentoService.cs",
+              "ToolTip": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\services\\PagamentoService.cs",
+              "RelativeToolTip": "TrabalhoPrimeiroBim\\services\\PagamentoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T15:59:40.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\appsettings.json",
+              "RelativeDocumentMoniker": "TrabalhoPrimeiroBim\\appsettings.json",
+              "ToolTip": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\appsettings.json",
+              "RelativeToolTip": "TrabalhoPrimeiroBim\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-22T15:10:04.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TrabalhoPrimeiroBim\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\joaor\\OneDrive\\\u00C1rea de Trabalho\\SI\\6\u00BA SEMESTRE\\LP1\\TrabalhoPrimeiroBim (1)\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\TrabalhoPrimeiroBim\\appsettings.Development.json",
+              "RelativeToolTip": "TrabalhoPrimeiroBim\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-22T15:09:56.423Z",
               "EditorCaption": ""
             }
           ]

@@ -1,7 +1,10 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using XXXXX;
 
 namespace TrabalhoPrimeiroBim.controller
 {
+    [XXXXX.Authorize("APIAuth")]
     [Route("pagamentos/")]
     [ApiController]
     public class PagamentosController : ControllerBase
@@ -16,6 +19,11 @@ namespace TrabalhoPrimeiroBim.controller
             _pagamentoService = pagamentoService;
         }
 
+        /// <summary>
+        /// calcula as parcelas de um pagamento
+        /// </summary>
+        /// <param name="transacaoInfo"></param>
+        /// <returns></returns>
         [HttpPost ("calcular-parcelas")]
         public List<domain.Parcela> calcularParcelas(viewModel.TransacaoViewModel transacaoInfo)
         {
@@ -35,6 +43,11 @@ namespace TrabalhoPrimeiroBim.controller
             
         }
 
+        /// <summary>
+        /// cria um novo pagamento
+        /// </summary>
+        /// <param name="pagamentoView"></param>
+        /// <returns></returns>
         [HttpPost ("")]
         public IActionResult cadastrarPagamento(viewModel.PagamentoViewModel pagamentoView)
         {
@@ -45,19 +58,30 @@ namespace TrabalhoPrimeiroBim.controller
                 transacao.cvv = pagamentoView.cvv;
                 transacao.valor = pagamentoView.valor;
                 transacao.qtdeParcelas = pagamentoView.qtdeParcelas;
-                transacao.situacao = domain.Pagamento.Situacao.PENDENTE; 
-                if(_pagamentoService.criarTransacao(transacao)>1)
-                    return Ok(_pagamentoService.criarTransacao(transacao));
+                transacao.situacao = domain.Pagamento.Situacao.PENDENTE;
+                long i = _pagamentoService.criarTransacao(transacao);
+                if (i>1)
+                    return Ok(i);
             }
-                return BadRequest();
+            return BadRequest();
         }
 
-        [HttpPost("/{id}/situacao")]
+        /// <summary>
+        /// devolve a situacao de determinado pagamento
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
+        [HttpGet("/{id}/situacao")]
         public IActionResult situacaoPagamento(int id)
         {
             return Ok(_pagamentoService.situacaoPagamento(id));
         }
 
+        /// <summary>
+        /// atualiza a situacao de determinado pagamento
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpPut("/{id}/confirmar")]
         public IActionResult confirmarPagamento(int id)
         {
@@ -66,6 +90,11 @@ namespace TrabalhoPrimeiroBim.controller
             return BadRequest("Pagamento não confirmado!");
         }
 
+        /// <summary>
+        /// atualiza a situacao de determinado pagamento
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpPut("/{id}/cancelar")]
         public IActionResult cancelarrPagamento(int id)
         {
