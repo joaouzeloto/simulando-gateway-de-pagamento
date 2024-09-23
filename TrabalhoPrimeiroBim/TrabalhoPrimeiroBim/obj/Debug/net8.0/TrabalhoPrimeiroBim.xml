@@ -53,5 +53,82 @@
             <param name="id"></param>
             <returns></returns>
         </member>
+        <member name="P:TrabalhoPrimeiroBim.domain.Pagamento.valor">
+            <summary>
+            Valor total da compra
+            </summary>
+        </member>
+        <member name="P:TrabalhoPrimeiroBim.domain.Pagamento.cartao">
+            <summary>
+            Numero do cartão de crédito
+            </summary>
+        </member>
+        <member name="P:TrabalhoPrimeiroBim.domain.Pagamento.cvv">
+            <summary>
+            Código de segurança do cartão
+            </summary>
+        </member>
+        <member name="P:TrabalhoPrimeiroBim.domain.Pagamento.qtdeParcelas">
+            <summary>
+            Quantidade de parcelas escolhida
+            </summary>
+        </member>
+        <member name="P:TrabalhoPrimeiroBim.domain.Pagamento.situacao">
+            <summary>
+            Status do pagamento
+            </summary>
+        </member>
+        <member name="M:TrabalhoPrimeiroBim.domain.Pagamento.converte(System.String)">
+            <summary>
+            Função usada para converter valores do BD
+            </summary>
+            <param name="valor"></param>
+            <returns></returns>
+        </member>
+        <member name="P:TrabalhoPrimeiroBim.domain.Parcela.nParcela">
+            <summary>
+            Quantidade de parcelas escolhidas para se dividir
+            </summary>
+        </member>
+        <member name="P:TrabalhoPrimeiroBim.domain.Parcela.valor">
+            <summary>
+            Valor total da compra
+            </summary>
+        </member>
+        <member name="P:TrabalhoPrimeiroBim.viewModel.PagamentoViewModel.valor">
+            <summary>
+            Valor total do pagamento
+            </summary>
+        </member>
+        <member name="P:TrabalhoPrimeiroBim.viewModel.PagamentoViewModel.cartao">
+            <summary>
+            Número do cartão de crédito
+            </summary>
+        </member>
+        <member name="P:TrabalhoPrimeiroBim.viewModel.PagamentoViewModel.cvv">
+            <summary>
+            Número de segurança do cartão
+            </summary>
+        </member>
+        <member name="P:TrabalhoPrimeiroBim.viewModel.PagamentoViewModel.qtdeParcelas">
+            <summary>
+            Quantidades de parcelas do pagamento
+            </summary>
+        </member>
+        <member name="P:TrabalhoPrimeiroBim.viewModel.TransacaoViewModel.valorTotal">
+            <summary>
+            Valor total da transação
+            </summary>
+        </member>
+        <member name="P:TrabalhoPrimeiroBim.viewModel.TransacaoViewModel.taxaJuros">
+            <summary>
+            Taxa de juros da compra
+            </summary>
+        </member>
+        <member name="P:TrabalhoPrimeiroBim.viewModel.TransacaoViewModel.qtdeParcelas">
+            <summary>
+            Quantiddade de parcelas escolhidas
+            </summary>
+        </member>
     </members>
 </doc>

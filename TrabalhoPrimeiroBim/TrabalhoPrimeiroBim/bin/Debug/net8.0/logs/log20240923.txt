@@ -1,0 +1,24 @@
+2024-09-23 16:18:31.472 -03:00 [INF] Now listening on: http://localhost:5054
+2024-09-23 16:18:31.581 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-23 16:18:31.582 -03:00 [INF] Hosting environment: Development
+2024-09-23 16:18:31.582 -03:00 [INF] Content root path: C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim
+2024-09-23 16:18:31.762 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/index.html - null null
+2024-09-23 16:18:31.999 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-23 16:18:32.001 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/index.js - null null
+2024-09-23 16:18:32.010 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/index.html - 200 null text/html;charset=utf-8 257.9776ms
+2024-09-23 16:18:32.011 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 10.2808ms
+2024-09-23 16:18:32.013 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/index.js - 200 null application/javascript;charset=utf-8 12.4262ms
+2024-09-23 16:18:32.020 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/_vs/browserLink - null null
+2024-09-23 16:18:32.075 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/_vs/browserLink - 200 null text/javascript; charset=UTF-8 55.0904ms
+2024-09-23 16:18:32.125 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/swagger/v1/swagger.json - null null
+2024-09-23 16:18:32.268 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 143.0139ms
+2024-09-23 16:19:15.967 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/cartoes/3333932532432452/valido - null null
+2024-09-23 16:19:15.987 -03:00 [WRN] Failed to determine the https port for redirect.
+2024-09-23 16:19:15.994 -03:00 [INF] Executing endpoint 'TrabalhoPrimeiroBim.controller.CartaoController.conferirValidade (TrabalhoPrimeiroBim)'
+2024-09-23 16:19:16.028 -03:00 [INF] Route matched with {action = "conferirValidade", controller = "Cartao"}. Executing controller action with signature Boolean conferirValidade(System.String) on controller TrabalhoPrimeiroBim.controller.CartaoController (TrabalhoPrimeiroBim).
+2024-09-23 16:19:16.128 -03:00 [INF] iniciando o modulo de validação do cartão
+2024-09-23 16:19:16.204 -03:00 [INF] cartão validado - não pode ser usado
+2024-09-23 16:19:16.218 -03:00 [INF] Executing ObjectResult, writing value of type 'System.Boolean'.
+2024-09-23 16:19:16.243 -03:00 [INF] Executed action TrabalhoPrimeiroBim.controller.CartaoController.conferirValidade (TrabalhoPrimeiroBim) in 205.9907ms
+2024-09-23 16:19:16.244 -03:00 [INF] Executed endpoint 'TrabalhoPrimeiroBim.controller.CartaoController.conferirValidade (TrabalhoPrimeiroBim)'
+2024-09-23 16:19:16.244 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/cartoes/3333932532432452/valido - 200 null application/json; charset=utf-8 278.0456ms

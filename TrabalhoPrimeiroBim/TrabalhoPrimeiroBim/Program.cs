@@ -13,17 +13,15 @@ using System.Text;
 var logFolder = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "logs");
 Directory.CreateDirectory(logFolder);
 
-
 Log.Logger = new LoggerConfiguration()
-   .MinimumLevel.Error()
    .MinimumLevel.Information()
    .WriteTo.File(new CompactJsonFormatter(),
-          Path.Combine(logFolder, ".json"),
-           retainedFileCountLimit: 10,
-           rollingInterval: RollingInterval.Day)
-   .WriteTo.File(Path.Combine(logFolder, ".log"),
-           retainedFileCountLimit: 10,
-           rollingInterval: RollingInterval.Day)
+          Path.Combine(logFolder, "log.json"),  
+           retainedFileCountLimit: 1,            
+           rollingInterval: RollingInterval.Day) 
+   .WriteTo.File(Path.Combine(logFolder, "log.txt"), 
+           retainedFileCountLimit: 1,               
+           rollingInterval: RollingInterval.Day)    
    .WriteTo.MySQL("Server=129.148.59.75;Database=aluno8;Uid=aluno8;Pwd=12345678Xx$;",
                           "Logs")
    .CreateLogger();
@@ -58,13 +56,13 @@ builder.Services.AddSwaggerGen(c =>
     {
         Title = "Trabalho 1 Bimestre",
         Version = "0.1",
-        Description = $@"<h3>Soluções para <b>transações</b></h3>
+        Description = $@"<h3>Gateway de <b>pagamento</b></h3>
                         ",
         Contact = new OpenApiContact
         {
-            Name = "Site da Unoeste",
+            Name = "Github: projeto",
             Email = string.Empty,
-            Url = new Uri("https://www.unoeste.br"),
+            Url = new Uri("https://github.com/joaouzeloto/simulando-gateway-de-pagamento"),
         },
     });
 
@@ -105,6 +103,7 @@ builder.Services.AddControllers();
 
 builder.Services.AddScoped(typeof(TrabalhoPrimeiroBim.services.CartaoService));
 builder.Services.AddScoped(typeof(TrabalhoPrimeiroBim.domain.Pagamento));
+
 builder.Services.AddScoped(typeof(TrabalhoPrimeiroBim.services.PagamentoService));
 
 builder.Services.AddSingleton<TrabalhoPrimeiroBim.BD>(new TrabalhoPrimeiroBim.BD());

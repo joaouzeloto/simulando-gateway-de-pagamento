@@ -1,0 +1,126 @@
+2024-09-23 16:00:31.260 -03:00 [INF] Now listening on: http://localhost:5054
+2024-09-23 16:00:31.408 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-23 16:00:31.410 -03:00 [INF] Hosting environment: Development
+2024-09-23 16:00:31.410 -03:00 [INF] Content root path: C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim
+2024-09-23 16:00:32.236 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/index.html - null null
+2024-09-23 16:00:32.783 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/index.js - null null
+2024-09-23 16:00:32.792 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-23 16:00:32.799 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/index.html - 200 null text/html;charset=utf-8 568.5224ms
+2024-09-23 16:00:32.799 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/index.js - 200 null application/javascript;charset=utf-8 15.5691ms
+2024-09-23 16:00:32.803 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/index.css - null null
+2024-09-23 16:00:32.804 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/swagger-ui.css - null null
+2024-09-23 16:00:32.805 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/swagger-ui-bundle.js - null null
+2024-09-23 16:00:32.806 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/swagger-ui-standalone-preset.js - null null
+2024-09-23 16:00:32.814 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 17.3545ms
+2024-09-23 16:00:32.856 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/_vs/browserLink - null null
+2024-09-23 16:00:32.859 -03:00 [INF] The file /index.css was not modified
+2024-09-23 16:00:32.859 -03:00 [INF] The file /swagger-ui-standalone-preset.js was not modified
+2024-09-23 16:00:32.859 -03:00 [INF] The file /swagger-ui.css was not modified
+2024-09-23 16:00:32.859 -03:00 [INF] The file /swagger-ui-bundle.js was not modified
+2024-09-23 16:00:32.860 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/swagger-ui-bundle.js - 304 null text/javascript 56.0704ms
+2024-09-23 16:00:32.860 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/index.css - 304 null text/css 57.6472ms
+2024-09-23 16:00:32.860 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/swagger-ui.css - 304 null text/css 56.6415ms
+2024-09-23 16:00:32.860 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/swagger-ui-standalone-preset.js - 304 null text/javascript 54.9089ms
+2024-09-23 16:00:32.972 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/_vs/browserLink - 200 null text/javascript; charset=UTF-8 117.7446ms
+2024-09-23 16:00:33.111 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/swagger/v1/swagger.json - null null
+2024-09-23 16:00:33.386 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 275.8626ms
+2024-09-23 16:10:03.820 -03:00 [INF] Now listening on: http://localhost:5054
+2024-09-23 16:10:03.926 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-23 16:10:03.927 -03:00 [INF] Hosting environment: Development
+2024-09-23 16:10:03.927 -03:00 [INF] Content root path: C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim
+2024-09-23 16:10:04.484 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/index.html - null null
+2024-09-23 16:10:04.785 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/index.html - 200 null text/html;charset=utf-8 308.0498ms
+2024-09-23 16:10:04.787 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/index.js - null null
+2024-09-23 16:10:04.789 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/_vs/browserLink - null null
+2024-09-23 16:10:04.794 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/index.js - 200 null application/javascript;charset=utf-8 8.6361ms
+2024-09-23 16:10:04.803 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-23 16:10:04.822 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 19.2071ms
+2024-09-23 16:10:04.845 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/_vs/browserLink - 200 null text/javascript; charset=UTF-8 56.2129ms
+2024-09-23 16:10:05.013 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/swagger/v1/swagger.json - null null
+2024-09-23 16:10:05.175 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 161.9334ms
+2024-09-23 16:10:46.368 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5054/pagamentos/calcular-parcelas - application/json 63
+2024-09-23 16:10:46.374 -03:00 [WRN] Failed to determine the https port for redirect.
+2024-09-23 16:10:46.382 -03:00 [INF] Executing endpoint 'TrabalhoPrimeiroBim.controller.PagamentosController.calcularParcelas (TrabalhoPrimeiroBim)'
+2024-09-23 16:10:46.424 -03:00 [INF] Route matched with {action = "calcularParcelas", controller = "Pagamentos"}. Executing controller action with signature System.Collections.Generic.List`1[TrabalhoPrimeiroBim.domain.Parcela] calcularParcelas(TrabalhoPrimeiroBim.viewModel.TransacaoViewModel) on controller TrabalhoPrimeiroBim.controller.PagamentosController (TrabalhoPrimeiroBim).
+2024-09-23 16:10:46.569 -03:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TrabalhoPrimeiroBim.domain.Parcela, TrabalhoPrimeiroBim, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-09-23 16:10:46.587 -03:00 [INF] Executed action TrabalhoPrimeiroBim.controller.PagamentosController.calcularParcelas (TrabalhoPrimeiroBim) in 155.3355ms
+2024-09-23 16:10:46.588 -03:00 [INF] Executed endpoint 'TrabalhoPrimeiroBim.controller.PagamentosController.calcularParcelas (TrabalhoPrimeiroBim)'
+2024-09-23 16:10:46.588 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5054/pagamentos/calcular-parcelas - 200 null application/json; charset=utf-8 220.0717ms
+2024-09-23 16:11:40.221 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5054/pagamentos - application/json 87
+2024-09-23 16:11:40.223 -03:00 [INF] Executing endpoint 'TrabalhoPrimeiroBim.controller.PagamentosController.cadastrarPagamento (TrabalhoPrimeiroBim)'
+2024-09-23 16:11:40.226 -03:00 [INF] Route matched with {action = "cadastrarPagamento", controller = "Pagamentos"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult cadastrarPagamento(TrabalhoPrimeiroBim.viewModel.PagamentoViewModel) on controller TrabalhoPrimeiroBim.controller.PagamentosController (TrabalhoPrimeiroBim).
+2024-09-23 16:11:40.234 -03:00 [INF] iniciando o modulo de validação do cartão
+2024-09-23 16:11:40.291 -03:00 [INF] cartão validado - pronto para uso
+2024-09-23 16:11:40.294 -03:00 [INF] iniciando o modulo de criação do pagamento
+2024-09-23 16:11:40.370 -03:00 [INF] sucesso na criação do pagamento
+2024-09-23 16:11:40.371 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.Int64'.
+2024-09-23 16:11:40.382 -03:00 [INF] Executed action TrabalhoPrimeiroBim.controller.PagamentosController.cadastrarPagamento (TrabalhoPrimeiroBim) in 155.4602ms
+2024-09-23 16:11:40.382 -03:00 [INF] Executed endpoint 'TrabalhoPrimeiroBim.controller.PagamentosController.cadastrarPagamento (TrabalhoPrimeiroBim)'
+2024-09-23 16:11:40.383 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5054/pagamentos - 200 null application/json; charset=utf-8 165.9049ms
+2024-09-23 16:11:52.035 -03:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5054/13/cancelar - null 0
+2024-09-23 16:11:52.037 -03:00 [INF] Executing endpoint 'TrabalhoPrimeiroBim.controller.PagamentosController.cancelarrPagamento (TrabalhoPrimeiroBim)'
+2024-09-23 16:11:52.040 -03:00 [INF] Route matched with {action = "cancelarrPagamento", controller = "Pagamentos"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult cancelarrPagamento(Int32) on controller TrabalhoPrimeiroBim.controller.PagamentosController (TrabalhoPrimeiroBim).
+2024-09-23 16:11:52.044 -03:00 [INF] iniciando o modulo de update da situacao do pagamento
+2024-09-23 16:11:52.170 -03:00 [INF] update da situacao do pagamento realizado
+2024-09-23 16:11:52.170 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-09-23 16:11:52.171 -03:00 [INF] Executed action TrabalhoPrimeiroBim.controller.PagamentosController.cancelarrPagamento (TrabalhoPrimeiroBim) in 131.1305ms
+2024-09-23 16:11:52.171 -03:00 [INF] Executed endpoint 'TrabalhoPrimeiroBim.controller.PagamentosController.cancelarrPagamento (TrabalhoPrimeiroBim)'
+2024-09-23 16:11:52.172 -03:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5054/13/cancelar - 200 null text/plain; charset=utf-8 136.2475ms
+2024-09-23 16:12:32.475 -03:00 [INF] Now listening on: http://localhost:5054
+2024-09-23 16:12:32.561 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-23 16:12:32.562 -03:00 [INF] Hosting environment: Development
+2024-09-23 16:12:32.562 -03:00 [INF] Content root path: C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim
+2024-09-23 16:12:33.005 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/index.html - null null
+2024-09-23 16:12:33.259 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/index.html - 200 null text/html;charset=utf-8 258.6072ms
+2024-09-23 16:12:33.263 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/index.js - null null
+2024-09-23 16:12:33.263 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-23 16:12:33.267 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/_vs/browserLink - null null
+2024-09-23 16:12:33.270 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 6.8504ms
+2024-09-23 16:12:33.307 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/index.js - 200 null application/javascript;charset=utf-8 44.0553ms
+2024-09-23 16:12:33.376 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/_vs/browserLink - 200 null text/javascript; charset=UTF-8 108.7273ms
+2024-09-23 16:12:33.448 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/swagger/v1/swagger.json - null null
+2024-09-23 16:12:33.586 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 137.7166ms
+2024-09-23 16:13:06.266 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5054/cartoes/1111255516996632/valido - null null
+2024-09-23 16:13:06.271 -03:00 [WRN] Failed to determine the https port for redirect.
+2024-09-23 16:13:06.278 -03:00 [INF] Executing endpoint 'TrabalhoPrimeiroBim.controller.CartaoController.conferirValidade (TrabalhoPrimeiroBim)'
+2024-09-23 16:13:06.317 -03:00 [INF] Route matched with {action = "conferirValidade", controller = "Cartao"}. Executing controller action with signature Boolean conferirValidade(System.String) on controller TrabalhoPrimeiroBim.controller.CartaoController (TrabalhoPrimeiroBim).
+2024-09-23 16:13:06.410 -03:00 [INF] iniciando o modulo de validação do cartão
+2024-09-23 16:13:06.672 -03:00 [ERR] Erro a transação.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'nomero' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacketAsync(Boolean execAsync)
+   at MySql.Data.MySqlClient.NativeDriver.GetResultAsync(Int32 affectedRow, Int64 insertedId, Boolean execAsync)
+   at MySql.Data.MySqlClient.Driver.GetResultAsync(Int32 statementId, Int32 affectedRows, Int64 insertedId, Boolean execAsync)
+   at MySql.Data.MySqlClient.Driver.NextResultAsync(Int32 statementId, Boolean force, Boolean execAsync)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResultAsync(Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResultAsync(Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at TrabalhoPrimeiroBim.services.CartaoService.validarCartao(String numero) in C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\services\CartaoService.cs:line 32
+2024-09-23 16:13:10.639 -03:00 [INF] Executed action TrabalhoPrimeiroBim.controller.CartaoController.conferirValidade (TrabalhoPrimeiroBim) in 4316.1389ms
+2024-09-23 16:13:10.641 -03:00 [INF] Executed endpoint 'TrabalhoPrimeiroBim.controller.CartaoController.conferirValidade (TrabalhoPrimeiroBim)'
+2024-09-23 16:13:10.643 -03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.Exception: Unknown column 'nomero' in 'where clause'
+   at TrabalhoPrimeiroBim.services.CartaoService.validarCartao(String numero) in C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\services\CartaoService.cs:line 52
+   at TrabalhoPrimeiroBim.controller.CartaoController.conferirValidade(String cartao) in C:\Users\joaor\OneDrive\Área de Trabalho\SI\6º SEMESTRE\LP1\TrabalhoPrimeiroBim (1)\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\TrabalhoPrimeiroBim\controller\CartaoController.cs:line 73
+   at lambda_method4(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-09-23 16:13:10.657 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5054/cartoes/1111255516996632/valido - 500 null text/plain; charset=utf-8 4390.909ms
